@@ -1,0 +1,11 @@
+fernanda1.txt
+fernanda2.txt
+fernanda3.txt
+final.txt
+labso.2019.trab.av1
+pasta1
+pasta2
+pasta3
+README.md
+trabalho1.2019
+ultimocomando.txt
